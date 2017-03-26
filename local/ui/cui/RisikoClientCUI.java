@@ -36,6 +36,7 @@ public class RisikoClientCUI {
 				//Ausgabe bei falscher Eingabe
 				System.out.println("Falsche Eingabe.");
 			}
+			//comment
 		}	
 		
 		//Ausgabe, wer nun alles mitspielt (Überprüfung, ob Eingabe erfolgreich war)
